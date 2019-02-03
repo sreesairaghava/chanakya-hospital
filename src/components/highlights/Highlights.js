@@ -10,7 +10,7 @@ class Highlights extends Component {
             
             <div className="item-1">
                 <img src={HightlightOne} alt="doctor"/>
-                <p>Test</p>
+                <p>Testing things</p>
             </div>
             <div><img src={HightlightTwo} alt="doctor"/></div>
             <div><img src={HightlightThree} alt="doctor"/></div>
